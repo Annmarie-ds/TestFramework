@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   This CocoaPods library prints any text you input on initialisation
                    DESC
 
-  spec.homepage     = "http://github.com/annmarie-ds/TestFramework"
+  spec.homepage     = "https://github.com/annmarie-ds/TestFramework"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -39,8 +39,7 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  spec.license      = { :type => "Copyright", :file => "LICENSE.md" }
-  # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  spec.license      = { :type => "MIT", :file => "LICENSE.md" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -81,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "http://github.com/annmarie-ds/TestFramework.git", :tag => spec.version }
+  spec.source       = { :git => "https://github.com/annmarie-ds/TestFramework.git", :tag => spec.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
